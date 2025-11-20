@@ -37,7 +37,7 @@ Svaka skripta ili skup sličnih skripti nalazi se u zasebnom folderu, radi bolje
     ./ime_skripte.sh
     ```
 
----
+----
 
 ## Ciljevi
 
