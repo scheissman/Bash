@@ -25,7 +25,7 @@ Svaka skripta ili skup sličnih skripti nalazi se u zasebnom folderu, radi bolje
 
 1. Kloniraj repozitorij:
     ```bash
-    git clone https://github.com/korisnickoime/bash-learning.git
+    git clone https://github.com/scheissman/bash-learning.git
     cd bash-learning
     ```
 
